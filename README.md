@@ -1,7 +1,17 @@
-## Introduction to dplyr for Faster Data Manipulation in R
+## Tutorials for the dplyr package in R
 
-I created a [40-minute video tutorial](http://youtu.be/jWjqLW-u3hc) introducing Hadley Wickham's excellent [dplyr](https://github.com/hadley/dplyr) package, and posted the walk-through document used in the video [on RPubs](http://rpubs.com/justmarkham/dplyr-tutorial).
+I've created two video tutorials covering Hadley Wickham's excellent [dplyr](https://github.com/hadley/dplyr) package. The first tutorial introduces all of the basic functionality of dplyr 0.2. The second tutorial covers the new functionality in dplyr 0.3 and 0.4.
 
-Numerous people asked me for a copy of the source document to adapt for their own purposes, and I'm happy to oblige! [View the R Markdown document here](dplyr-tutorial.Rmd), and then click [Raw](https://raw.githubusercontent.com/justmarkham/dplyr-tutorial/master/dplyr-tutorial.Rmd) to view a plain-text version that you can easily save. (Or, just clone this repository!)
+This repo contains the R Markdown documents used in the tutorials.
 
-More information about the tutorial is available on [my blog](http://www.dataschool.io/dplyr-tutorial-for-faster-data-manipulation-in-r/).
+Tutorial #1:
+* [Video](http://youtu.be/jWjqLW-u3hc) on YouTube (39 minutes)
+* [R Markdown document](dplyr-tutorial.Rmd) and [plain text version](https://raw.githubusercontent.com/justmarkham/dplyr-tutorial/master/dplyr-tutorial.Rmd)
+* [Rendered document](http://rpubs.com/justmarkham/dplyr-tutorial) on RPubs
+* [Blog post](http://www.dataschool.io/dplyr-tutorial-for-faster-data-manipulation-in-r/)
+
+Tutorial #2:
+* [Video](http://youtu.be/2mh1PqfsXVI) on YouTube (37 minutes)
+* [R Markdown document](dplyr-tutorial-2.Rmd) and [plain text version](https://raw.githubusercontent.com/justmarkham/dplyr-tutorial/master/dplyr-tutorial-2.Rmd)
+* [Rendered document](http://rpubs.com/justmarkham/dplyr-tutorial-part-2) on RPubs
+* [Blog post](http://www.dataschool.io/dplyr-tutorial-part-2/)
