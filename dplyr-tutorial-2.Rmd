@@ -128,7 +128,7 @@ flights %>% transmute(speed = distance/air_time*60)
 mtcars %>% head()
 
 # add_rownames() turns row names into an explicit variable
-mtcars %>% add_rownames("model") %>% head()
+mtcars %>% rownames_to_column("model") %>% head()
 
 # side note: dplyr no longer prints row names (ever) for local data frames
 mtcars %>% tbl_df()
